@@ -15,6 +15,7 @@ All repositories live in the **[cu-mscso](https://github.com/cu-mscso)** GitHub 
 | High-Performance Computing | [specialization-hpc](https://github.com/cu-mscso/specialization-hpc) |
 | Database Theory and Applications | [specialization-databases](https://github.com/cu-mscso/specialization-databases) |
 | Software Architecture and Engineering | [specialization-software-architecture](https://github.com/cu-mscso/specialization-software-architecture) |
+| Foundations of Data Structures and Algorithms | [specialization-algorithms-data-structures](https://github.com/cu-mscso/specialization-algorithms-data-structures) |
 
 ---
 
