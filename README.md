@@ -6,6 +6,18 @@ All repositories live in the **[cu-mscso](https://github.com/cu-mscso)** GitHub 
 
 ---
 
+## Specializations
+
+| Specialization | Repo |
+|----------------|------|
+| Machine Learning | [specialization-machine-learning](https://github.com/cu-mscso/specialization-machine-learning) |
+| Network Principles in Practice | [specialization-network-principles](https://github.com/cu-mscso/specialization-network-principles) |
+| High-Performance Computing | [specialization-hpc](https://github.com/cu-mscso/specialization-hpc) |
+| Database Theory and Applications | [specialization-databases](https://github.com/cu-mscso/specialization-databases) |
+| Software Architecture and Engineering | [specialization-software-architecture](https://github.com/cu-mscso/specialization-software-architecture) |
+
+---
+
 ## Coursework Index
 
 | Area | Courses |
