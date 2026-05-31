@@ -17,6 +17,16 @@ CU Boulder MSCS · [specialization index](https://github.com/cu-mscso/specializa
 | [csca5642-intro-to-deep-learning](https://github.com/cu-mscso/csca5642-intro-to-deep-learning) | CSCA 5642 · Introduction to Deep Learning | Jupyter Notebook |
 | [alzheimers-disease-prediction](https://github.com/cu-mscso/alzheimers-disease-prediction) | Capstone · Alzheimer's Disease Prediction: Machine Learning Approach | Jupyter Notebook |
 
+## Generative AI Specialization
+
+CU Boulder MSCS · [specialization index](https://github.com/cu-mscso/specialization-generative-ai)
+
+| Repository | Course | Language |
+|------------|--------|----------|
+| [csca5112-intro-to-generative-ai](https://github.com/cu-mscso/csca5112-intro-to-generative-ai) | CSCA 5112 · Introduction to Generative AI | — |
+| [csca5122-modern-applications-generative-ai](https://github.com/cu-mscso/csca5122-modern-applications-generative-ai) | CSCA 5122 · Modern Applications of Generative AI | — |
+| [csca5132-advances-in-generative-ai](https://github.com/cu-mscso/csca5132-advances-in-generative-ai) | CSCA 5132 · Advances in Generative AI | — |
+
 ## Network Principles in Practice Specialization
 
 CU Boulder MSCS · [specialization index](https://github.com/cu-mscso/specialization-network-principles)
